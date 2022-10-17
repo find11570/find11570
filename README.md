@@ -10,7 +10,7 @@
 <br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffind11570&count_bg=%23FFC5BA&title_bg=%23FFD7F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="/"><img src="https://img.shields.io/badge/blog-d9f9ff?style=flat&logo=GitHub Sponsors&logoColor=white&link=/"/></a>
+<a href="https://shuuuu.tistory.com"><img src="https://img.shields.io/badge/blog-d9f9ff?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://shuuuu.tistory.com"/></a>
 <a href="https://www.instagram.com/_shu_uuu" target="_blank"><img src="https://img.shields.io/badge/_shu_uuu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 <br/>
