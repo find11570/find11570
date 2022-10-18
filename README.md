@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=find11570)](https://github.com/find11570/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=find11570&layout=compact)](https://github.com/find11570/github-readme-stats)
 [![shuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=find11570)](https://github.com/find11570/github-readme-stats)
  
 <br/>
