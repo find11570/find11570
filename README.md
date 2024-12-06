@@ -1,23 +1,14 @@
-<div align="center">
+<div align="left">
   
-# 🌷 Hyeonsu's Profile 🌷
-  
-<br/>
-  
-![9FCDFBB4-C8BC-4E2E-837A-F1AC52F08168](https://user-images.githubusercontent.com/74519181/196078818-aefd2e3b-03bf-445c-8977-e8bb1df1d8fe.gif)
+## 안녕하세요, 김현수입니다.
+
+- 사용자 경험 개선에 매력을 느껴 프론트엔드 개발자로 1년 4개월간 근무한 경험이 있습니다.
+- 프로젝트 리딩 과정에서 포지션에 대한 전반적인 이해가 부족하다고 느껴, 퇴사 후 풀스택 부트캠프를 통해 백엔드 개발을 시작하게 되었습니다.
+- 대학 재학 중 3년간 비디오 영상 처리 연구실에서 활동하며 딥러닝 관련 컨퍼런스 논문 4편, 저널 논문 3편을 게재하였습니다.
 
 <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffind11570&count_bg=%23FFC5BA&title_bg=%23FFD7F0&icon=&icon_color=%23E7E7E7&title=hits&edge_round=false)](https://hits.seeyoufarm.com)
-<a href="https://velog.io/@find11570/posts"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=round-square&logo=velog&logoColor=white" /></a>
-  
-<br/>
-<br/>
-  
-## ✨ Stack & Tools ✨
-
-<br/>
-<br/>
+## Stack & Tools
   
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"/>
@@ -61,21 +52,17 @@
 <img src="https://img.shields.io/badge/Expo-000000?style=round-square&logo=Expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=round-square&logo=Slack&logoColor=white"/>
-
-
-
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=find11570&layout=compact)](https://github.com/find11570/github-readme-stats)
+## More
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffind11570&count_bg=%23FFC5BA&title_bg=%23FFD7F0&icon=&icon_color=%23E7E7E7&title=hits&edge_round=false)](https://hits.seeyoufarm.com)
+<a href="https://velog.io/@find11570/posts"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=round-square&logo=velog&logoColor=white" /></a>
+
 [![shuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=find11570)](https://github.com/find11570/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=find11570&layout=compact)](https://github.com/find11570/github-readme-stats)
  
 <br/>
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=fff8e3&height=200&section=footer)
-  
 </div>
